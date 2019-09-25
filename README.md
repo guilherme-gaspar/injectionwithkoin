@@ -4,7 +4,7 @@ Este repositório foi feito justamente para conter um projeto simples e toda as 
 
 Foi comentado sobre como o Koin funciona e principalmente quais os melhores usos dele em um projeto Android.
 
-`Deixo neste repositório guias e referências itilizadas para maior aprofundamento em relação ao Koin`
+`Deixo neste repositório guias e referências utilizadas para maior aprofundamento em relação ao Koin`
 
 ### Para iniciar todo o processo de aprendizagem do Koin 🎉
 
